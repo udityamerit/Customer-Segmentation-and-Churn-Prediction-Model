@@ -100,4 +100,3 @@ The app is built with **Streamlit**, using clustering (KMeans) and machine learn
 └── 📂 data
     └── marketing_campaign.csv
 ```
-
